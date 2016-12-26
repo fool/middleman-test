@@ -1,1 +1,3 @@
 https://subdomain.fools.website/*	https://fools.website/:subdomain/:splat 301!
+
+/mediakit uselang=en-UK /mediakit?uselang=en-GB 301
